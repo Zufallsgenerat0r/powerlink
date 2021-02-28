@@ -16,6 +16,6 @@ OR
 
 Run the standalone executable provided
 ```
-./server
+./powerline
 ```
 
